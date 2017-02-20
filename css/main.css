@@ -39,7 +39,7 @@ body {
 
 header {
   position: fixed;
-  background-color: rgba(33, 40, 66, 0.95);
+  background-color: #212842;
   width: 100%;
   height: 86px;
 }
@@ -209,6 +209,7 @@ nav ul li a:hover:after {
   background-size: cover;
   display: block;
   padding: 26%;
+  margin-top: 86px;
 }
 
 /* --- Proj2 --- */
@@ -218,6 +219,7 @@ nav ul li a:hover:after {
   background-size: cover;
   display: block;
   padding: 26%;
+  margin-top: 86px;
 }
 
 /* --- Proj3 --- */
@@ -227,6 +229,7 @@ nav ul li a:hover:after {
   background-size: cover;
   display: block;
   padding: 26%;
+  margin-top: 86px;
 }
 
 /* --- Proj4 --- */
@@ -236,6 +239,7 @@ nav ul li a:hover:after {
   background-size: cover;
   display: block;
   padding: 26%;
+  margin-top: 86px;
 }
 
 /* --- Proj5 --- */
@@ -245,6 +249,7 @@ nav ul li a:hover:after {
   background-size: cover;
   display: block;
   padding: 26%;
+  margin-top: 86px;
 }
 
 /* --- Proj6 --- */
@@ -254,6 +259,7 @@ nav ul li a:hover:after {
   background-size: cover;
   display: block;
   padding: 26%;
+  margin-top: 86px;
 }
 
 /* --- Footer --- */
